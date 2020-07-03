@@ -15,6 +15,8 @@
  */
 package de.hdodenhof.circleimageview;
 
+//포크로 찍어와서 주석 남기는 중^^
+
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.TypedArray;
